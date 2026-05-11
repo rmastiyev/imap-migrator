@@ -1,0 +1,8 @@
+*.mbox
+*.mbox.bak
+*.mbox.lock
+*.pst
+pst_output/
+.DS_Store
+.venv/
+__pycache__/
